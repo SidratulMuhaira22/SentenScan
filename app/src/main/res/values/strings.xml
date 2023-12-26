@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SentenScan</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="next">NEXT</string>
+    <string name="check">CHECK</string>
+    <string name="name">Name</string>
+    <string name="ic_back">ic_back</string>
+    <string name="profile">Profile</string>
+    <string name="john_dae">John Dae</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="welcome">Welcome</string>
+    <string name="user">User</string>
+    <string name="user_image">user_image</string>
+    <string name="full_name">Full Name</string>
+    <string name="user_example_com">user@example.com</string>
+</resources>
